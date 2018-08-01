@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ethereumjs-testrpc": "4.1.1",
+    "web3": "1.0.0-beta.18",
+    "solc": "0.4.17"
+  }
+}
